@@ -10,6 +10,7 @@ int main ()
     printf("\n");
     printf("Salut je gere mieux git");
     printf("Lol");
+    printf(" Mdr meme moi je peux ajouter");
 
     return 0;
 }
