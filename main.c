@@ -11,7 +11,7 @@ int main ()
     int i;
     for(i=0;i<10;i++)
     {
-        printf("Ceci est une deuxieme branche")
+        printf("Ceci est une deuxieme branche\n");
     }
 
     return 0;
